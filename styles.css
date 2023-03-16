@@ -1,0 +1,37 @@
+
+body {
+    background-color: #ECF2FF;
+    margin: 0%;
+    text-align: center;
+  }
+.top-container{
+  background-image: url(black-hole-wallpaper.jpg);
+  background-size: cover;
+  background-position: center;
+  border-bottom-left-radius: 5%;
+  border-bottom-right-radius: 5%;
+  height: 500px;
+}
+#bienvenue{
+  margin-top: 0px;
+  margin-bottom: 0px;
+  font-family: 'Rubik Iso';
+  font-size: 36px;
+  padding-top: 190px;
+  color: whitesmoke;
+  text-align: center;
+  padding-left: 15px;
+}
+
+#sms{
+  font-family: 'Rubik Iso';
+  color: rgb(0, 0, 0);
+  font-size: 20px;
+  padding-top: 35px;
+
+}
+#gif{
+  width: 300px;
+  height: 300px;
+  position: absolute;
+}
