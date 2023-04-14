@@ -5,33 +5,107 @@ body {
     text-align: center;
   }
 .top-container{
-  background-image: url(black-hole-wallpaper.jpg);
+  background-image: url(oxm7y7.jpg);
   background-size: cover;
   background-position: center;
-  border-bottom-left-radius: 5%;
-  border-bottom-right-radius: 5%;
-  height: 500px;
+  height: 700px;
 }
 #bienvenue{
+  padding-top: 220px;
   margin-top: 0px;
   margin-bottom: 0px;
   font-family: 'Rubik Iso';
-  font-size: 36px;
-  padding-top: 190px;
+  font-size: 60px;
   color: whitesmoke;
   text-align: center;
   padding-left: 15px;
+  padding-left: 80px;
 }
 
 #sms{
   font-family: 'Rubik Iso';
-  color: rgb(0, 0, 0);
-  font-size: 20px;
-  padding-top: 35px;
+  color: #8F43EE;
+  font-size: 50px;
+ margin-left: 500px;
+ margin-top: 10px;
 
 }
+
+.bsms{
+
+}
+
 #gif{
   width: 300px;
   height: 300px;
   position: absolute;
+}
+
+.skill-row{
+  margin: 100px auto 100px auto;
+  width: 50%;
+  line-height: 2;
+  text-align: left;
+}
+
+.image1{
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+
+.image2{
+  width: 25%;
+  float: right;
+  margin-right: 30px;
+}
+
+h3{
+  color: #8F43EE;
+}
+
+.image0{
+  margin-top: 30px;
+}
+
+.bien{
+  text-decoration: underline;
+}
+
+h2{
+  color: #8F43EE;
+}
+
+.hr1{
+  border-style: none;
+  border-top-style: dotted;
+  width: 10%;
+  border-width: 5px;
+}
+
+.hr2{
+  border-style: none;
+  border-top-style: dotted;
+  width: 10%;
+  border-width: 5px;
+}
+
+.bottom-container{
+  background-color: #B2A4FF;
+  margin-top: 50px;
+}
+
+.gitouch{
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+
+.btn{
+  padding: 5px;
+  background-color: #B2A4FF;
+  border-radius: 10%;
+}
+
+.lastp{
+  margin-bottom: 0px;
 }
